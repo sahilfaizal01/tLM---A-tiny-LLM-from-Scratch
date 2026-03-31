@@ -2,7 +2,7 @@
 
 An implementation of GPT-style LLM Model with 20M parameters from scratch using PyTorch in Python
 
-![image](https://github.com/user-attachments/assets/c7d4604d-d528-44a4-8483-1dd4f4f9829a)
+# Training Details
 
 ## Insights:
 - **No. of parameters:** 19.83 Million (~20 Million)
