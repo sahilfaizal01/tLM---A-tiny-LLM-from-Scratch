@@ -31,4 +31,4 @@ if __name__ == "__main__":
   print("Default Softmax Time (ms):", default_time)
   print("Compiled Softmax Time (ms):", compiled_time)
   print("Speedup:", default_time / compiled_time)
-  print("Max difference:", (default_output - compiled_output).abs().max().item
+  print("Max difference:", (default_output - compiled_output).abs().max().item())
